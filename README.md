@@ -1,6 +1,5 @@
 # **Breast Cancer Prediction**
 
-### **Introduction**
 This project aims to build a machine learning model to predict whether a breast cancer tumor is malignant or benign based on various cell characteristics. The classification model is trained using data from a breast cancer dataset, which includes measurements such as cell radius, texture, perimeter, area, and smoothness.
 
 ### **Data Preparation**
